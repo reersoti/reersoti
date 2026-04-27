@@ -35,9 +35,9 @@ I use this GitHub profile as a portfolio of educational, coursework, experimenta
 - clear separation between core logic and UI layers;
 - reproducible build/run instructions;
 - CMake-based C++ project structure;
-- basic automated tests for model or algorithmic logic;
+- automated tests for model or algorithmic logic;
 - GitHub Actions CI for build and test checks;
-- documentation that explains project purpose, architecture, and possible improvements;
+- documentation with project purpose, architecture notes, guides, and improvement ideas;
 - public showcase repositories that avoid exposing private or commercial source code.
 
 ---
@@ -72,11 +72,10 @@ I use this GitHub profile as a portfolio of educational, coursework, experimenta
 
 ## Current Improvement Backlog
 
-- Add screenshots or GIF demos for GUI projects.
-- Add benchmark result examples and charts for algorithm projects.
-- Add dataset preparation notes for PyTorch experiments.
+- Add real measured benchmark results for algorithm projects.
 - Add more unit tests around edge cases and invalid input.
-- Add more detailed architecture notes for selected projects.
+- Expand architecture notes for selected projects.
+- Improve experiment tracking for PyTorch workflows.
 
 ---
 
